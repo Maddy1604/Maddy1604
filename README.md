@@ -1,19 +1,19 @@
 <img align="right" alt="Coding" width="100%" src="https://iwconnect.com/wp-content/uploads/2020/12/IW-Accelerators-gif_4-1.gif">
 
-<h1 align="center">Hey Geek's👋, I'm Nikhil Patil</h1>
+<h1 align="center">Hey Geek's👋, I'm Mahesh Lavande</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
 
 
 👯 I’m looking to collaborate on **Open Source Projects**
-📫 How to reach me: **nikhilspatil128@gmail.com**
+📫 How to reach me: **maheshlavande16400@gmail.com**
 ⚡ Fun fact: **I love solving coding challenges...**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nikhil-patil-b6356a21a/" target="blank">
+<a href="https://www.linkedin.com/in/mahesh-lavande/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/profile/nickpatil876" target="blank">
+<a href="" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
 </p>
