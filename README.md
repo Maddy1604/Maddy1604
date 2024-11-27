@@ -57,7 +57,7 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><strong>Portfolio Website</strong> - A personal portfolio website built with React.js to showcase my projects and skills.</li>
+  <li><strong>Fundoo Notes</strong> - A clone of google keep. App able to create and maintain notes. </li>
   <li><strong>Question Paper Generator</strong> - A Java-based application using Servlet, JSP, JDBC, and MySQL for generating question papers.</li>
   <li><strong>Bank Management System</strong> - Developed using Java, Servlet, JSP, JDBC, and MySQL for managing bank operations.</li>
   <li><strong>Student Feedback System</strong> - A PHP-based application for collecting and analyzing student feedback.</li>
@@ -65,7 +65,7 @@
 
 <h3 align="left">GitHub Profile:</h3>
 <p align="left">
-  <a href="https://github.com/nikhill08" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-nikhill08-green?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+  <a href="https://github.com/Maddy1604" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Maddy1604-green?style=for-the-badge&logo=github" alt="GitHub Badge"/>
   </a>
 </p>
