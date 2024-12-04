@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="https://iwconnect.com/wp-content/uploads/2020/12/IW-Accelerators-gif_4-1.gif">
+<img align="right" alt="Coding" width="100%" src="C:\Users\HP\Downloads\hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-styl">
 
 <h1 align="center">Hey Geek's👋, I'm Mahesh Lavande</h1>
 <h3 align="center">A Passionate Developer from India</h3>
