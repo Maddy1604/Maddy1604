@@ -1,26 +1,27 @@
-<img align="centre" alt="Coding"  height="50%" width="50%" justify-content="center" align-items="center" position="absolute" top="50" left="50%"
-src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<div align="center">
+  <img alt="Coding" height="50%" width="50%" 
+       src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+</div>
 
 <h1 align="center">Hey Geek's👋, I'm Mahesh Lavande</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
+- 👯 I’m looking to collaborate on **Open Source Projects**  
+- 📫 How to reach me: **maheshlavande16400@gmail.com**  
+- ⚡ Fun fact: **I love solving coding challenges...**
 
-
-👯 I’m looking to collaborate on **Open Source Projects**
-📫 How to reach me: **maheshlavande16400@gmail.com**
-⚡ Fun fact: **I love solving coding challenges...**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mahesh-lavande/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-</a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahesh-lavande/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
@@ -56,16 +57,16 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
   </a>
 </p>
 
-<h3 align="left">Projects:</h3>
+<h3 align="center">Projects:</h3>
 <ul>
-  <li><strong>Fundoo Notes</strong> - A clone of google keep. App able to create and maintain notes. </li>
+  <li><strong>Fundoo Notes</strong> - A clone of Google Keep. App able to create and maintain notes. </li>
   <li><strong>Question Paper Generator</strong> - A Java-based application using Servlet, JSP, JDBC, and MySQL for generating question papers.</li>
   <li><strong>Bank Management System</strong> - Developed using Java, Servlet, JSP, JDBC, and MySQL for managing bank operations.</li>
   <li><strong>Student Feedback System</strong> - A PHP-based application for collecting and analyzing student feedback.</li>
 </ul>
 
-<h3 align="left">GitHub Profile:</h3>
-<p align="left">
+<h3 align="center">GitHub Profile:</h3>
+<p align="center">
   <a href="https://github.com/Maddy1604" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Maddy1604-green?style=for-the-badge&logo=github" alt="GitHub Badge"/>
   </a>
